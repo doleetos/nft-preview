@@ -131,7 +131,7 @@ hr {
   color: hsl(178, 100%, 50%);
 }
 
-.creator > span {
+.creator {
   display: flex;
   align-items: center;
 }
